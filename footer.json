@@ -1,0 +1,53 @@
+[
+    {
+      "title": "Bitrock",
+      "links": [
+        {
+          "text": "Website",
+          "url": "https://www.bit-rock.io/"
+        },
+        {
+          "text": "Earn Bitrock",
+          "url": "https://stake.rock-swap.io/"
+        },
+        {
+          "text": "Partnership",
+          "url": "https://www.bit-rock.io/#partnership"
+        }
+      ]
+    },
+    {
+      "title": "Developers",
+      "links": [
+        {
+          "text": "Documentation",
+          "url": "https://docs.bit-rock.io/get-started/bitrock-blockchain"
+        },
+        {
+          "text": "Connect to Chain ",
+          "url": "https://docs.bit-rock.io/developer/connect-to-chain"
+        },
+        {
+          "text": "Github",
+          "url": "https://github.com/BitrockChain"
+        }
+      ]
+    },
+    {
+      "title": "Community",
+      "links": [
+        {
+          "text": "Discord",
+          "url": "https://discord.com/invite/xUTRESq8Xq"
+        },
+        {
+          "text": "Twitter",
+          "url": "https://twitter.com/BitRockChain"
+        },
+        {
+          "text": "Telegram",
+          "url": "https://t.me/Bitrockchain"
+        }
+      ]
+    }
+  ]
